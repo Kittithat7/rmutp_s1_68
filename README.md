@@ -1,6 +1,12 @@
 # Prisma
 
 KITTITHAT KHUNKLANGSAENG
+## Required
+- Git
+- docker & Docker compose
+- postgreSQL
+- node.js
+- prisma
 
 ## Runnig
 ## DATABASE
