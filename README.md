@@ -16,6 +16,8 @@ docker-compose up -d
 ```
 ### schema
 ``` 
+npx prisma generate
+npx prisma studio
 npx prisma init --datasource-provider postgresql
 npx prisma
 ```
