@@ -42,6 +42,8 @@ npx prisma generate
 `npx prisma genrate`
 ```
 ### hono
+```
 -npm install @hono/node-server
     -run
         npm install ts-node
+        tsc 

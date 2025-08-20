@@ -1,5 +1,7 @@
+// src/server.ts
 import { serve } from "@hono/node-server";
 import app from "./index";
-serve(app,(info)=>{
-    console.log(`Server is runnig on ${info.port}`);
+
+serve(app, (info) => {
+  console.log(`Server is running on ${info.port}`);
 });
