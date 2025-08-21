@@ -46,4 +46,6 @@ npx prisma generate
 -npm install @hono/node-server
     -run
         npm install ts-node
-        tsc 
+        -tsc 
+        npm install typescript
+        npm install vitest
