@@ -1,11 +1,9 @@
-import { Hono } from "hono";
+import { Hono } from 'hono';
+
 const app = new Hono();
 
-app.get('/', (c) => c.text("Hello,World!"));
-app.get('about',(c) => {
-    return c.json({
-        mesage: "About Page"
-    })
+app.get('/', (c) => {
+  return c.text('Hello from Hono!');
 });
 
 export default app;
