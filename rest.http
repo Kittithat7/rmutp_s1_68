@@ -10,6 +10,6 @@ Content-Type: application/json
 {
   "username":"1234",  
   "password":"KKaa.123456",
-  "mobile":"0123456789",     
+  "mobile":"0123486789",     
   "cardId":"0123456789111"     
 }
