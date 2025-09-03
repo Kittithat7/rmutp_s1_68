@@ -49,3 +49,6 @@ npx prisma generate
         -tsc 
         npm install typescript
         npm install vitest
+
+-install bcrypt package
+    npm i bcryptjs
